@@ -1,0 +1,7 @@
+project_id = "wjghxuqimfyvuncrejta"
+
+[functions.bhujal-chat]
+verify_jwt = false
+
+[functions.fetch-groundwater-data]
+verify_jwt = false
